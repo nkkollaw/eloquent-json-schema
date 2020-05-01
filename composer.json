@@ -1,5 +1,6 @@
 {
     "name": "nkkollaw/eloquent-json-schema",
+    "version": "1.0.0-beta3",
     "description": "",
     "keywords": [
         "laravel"
